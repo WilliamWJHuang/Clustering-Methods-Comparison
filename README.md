@@ -16,3 +16,6 @@ This repository is to demonstrate the descriptions and difference between cluste
 
 - **Spectral clustering technique** 
  starts the following steps :(1)Create a similarity graph between our N objects to cluster.(2)Compute the first k eigenvectors of its Laplacian matrix to define a feature vector for each object.(3)Run k-means on these features to separate objects into k classes. However, spectral clustering is computationally expensive unless the graph is sparse and the similarity matrix can be efficiently constructed.
+
+![Image description](https://github.com/WilliamWJHuang/Clustering-Methods-Comparison/blob/master/clustering.png)
+
